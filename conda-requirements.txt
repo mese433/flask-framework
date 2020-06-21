@@ -6,3 +6,7 @@ flask
 jinja2
 pip
 simplejson
+scipy
+numpy
+bitarray
+reportlab
