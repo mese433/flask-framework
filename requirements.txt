@@ -5,3 +5,5 @@ numpy
 bitarray
 reportlab
 pandas
+requests
+simplejson
